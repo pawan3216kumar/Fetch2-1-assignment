@@ -1,0 +1,30 @@
+tr{
+    height: 100px;
+    width: 100%;
+    background-color: aqua;
+    text-align: center;
+   
+   
+}
+thead{
+    border: 2px solid black;
+  
+}
+table{
+    border: 2px solid black;
+    margin-left: 300px;
+
+
+}
+
+body{
+  background-color: black;
+  color: rgb(223, 48, 48);
+  font-size: 30px;
+
+}
+
+th{
+    color: rgb(88, 28, 229);
+    background-color: rgb(28, 237, 39);
+}
